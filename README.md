@@ -12,7 +12,7 @@ export const About = {
     linkedin: 'https://www.linkedin.com/in/antónio-correia-gonçalves-570373',
   },
   gender: 'male',
-  tech_stack: ['Laravel', 'React Native', 'React', 'Vuejs'],
+  tech_stack: ['Javascript', 'PHP', 'Laravel', 'React Native', 'React', 'Vuejs'],
   job: {
     title: 'Software Developer',
     challenge: `I am a software devoloper, working daily with laravel, 
