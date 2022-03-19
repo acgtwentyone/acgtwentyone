@@ -1,4 +1,4 @@
-![This is an image](https://github.com/acgtwentyone/acgtwentyone/blob/main/acg.gif)
+![This is an image](https://github.com/acgtwentyone/acgtwentyone/blob/main/acg-3.gif)
 
 ### Hi there 👋, I am António Gonçalves                                                                          
 
