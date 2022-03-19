@@ -1,9 +1,24 @@
 <!-- title changed -->
 
-## Hi there 👋 
+### Hi there 👋, I am António Gonçalves                                                                          
 
-### I am a software devoloper, working daily with laravel, react native and and some vuejs  
+```
+export const About = {
+  firstname: 'António',
+  lastname: 'Gonçalves',
+  contact: {
+    phone: '+238 952 91 59',
+    email: 'acgtwentyone@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/antónio-correia-gonçalves-570373',
+  },
+  gender: 'male',
+  tech_stack: ['Laravel', 'React Native', 'React', 'Vuejs'],
+  job: {
+    title: 'Software Developer',
+    challenge: `I am a software devoloper, working daily with laravel, 
+      react native and and some vuejs. Always looking to learn new stacks`
+  } 
+}
+```
 
-<!--
-change 
--->
+
