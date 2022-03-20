@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am António Gonçalves 🌱                                                             
 
-```
+```javascript
 export const About = {
   firstname: 'António',
   lastname: 'Gonçalves',
