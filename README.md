@@ -11,7 +11,7 @@ export const About = {
     email: 'acgtwentyone@gmail.com',
     linkedin: 'https://www.linkedin.com/in/antónio-correia-gonçalves-570373',
   },
-  gender: 'male',
+  pronouns: "he" | "his",
   tech_stack: ['Javascript', 'PHP', 'Laravel', 'React Native', 'React', 'Vuejs'],
   job: {
     title: 'Software Developer',
