@@ -15,8 +15,9 @@ export const About = {
   tech_stack: ['Javascript', 'PHP', 'Laravel', 'React Native', 'React', 'Vuejs'],
   job: {
     title: 'Software Developer',
-    company: `IDEIA, Lda`
-  } 
+    company: `IDEIA, Lda`,
+    industry: 'Tecnologies',
+  }
 }
 ```
 
