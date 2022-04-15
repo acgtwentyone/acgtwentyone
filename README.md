@@ -15,8 +15,7 @@ export const About = {
   tech_stack: ['Javascript', 'PHP', 'Laravel', 'React Native', 'React', 'Vuejs'],
   job: {
     title: 'Software Developer',
-    challenge: `I am a software devoloper, working daily with laravel, 
-      react native and and some vuejs. Always looking to learn new stacks`
+    company: `IDEIA, Lda`
   } 
 }
 ```
