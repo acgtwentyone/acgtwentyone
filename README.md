@@ -11,13 +11,13 @@ export const About = {
     email: 'acgtwentyone@gmail.com',
     linkedin: 'https://www.linkedin.com/in/antónio-correia-gonçalves-570373',
   },
-  pronouns: "he" | "his",
-  tech_stack: ['Javascript', 'PHP', 'Laravel', 'React Native', 'React', 'Vuejs'],
+  pronouns: 'he' | 'his',
   job: {
     title: 'Software Developer',
-    company: `IDEIA, Lda`,
+    company: 'IDEIA, Lda',
     industry: 'Tecnologies',
-  }
+  },
+  bio: 'António is a software engineer focused on full-stack web development, with extensive experience with PHP, JavaScript, Laravel, React, React Native, and Vue.js... Learn and practice every day.'
 }
 ```
 
