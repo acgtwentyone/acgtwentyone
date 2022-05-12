@@ -15,7 +15,8 @@ export const About = {
     company: 'IDEIA, Lda',
     industry: 'Tecnologies',
   },
-  bio: 'António is a software engineer focused on full-stack web development, with extensive experience with PHP, JavaScript, Laravel, React, React Native, and Vue.js... Learn and practice every day.'
+  bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, JavaScript, 
+  Laravel, React, React Native, and Vue.js... Learn and practice every day.`
 }
 ```
 
