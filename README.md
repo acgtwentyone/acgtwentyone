@@ -16,7 +16,7 @@ export const About = {
     industry: 'Tecnologies',
   },
   bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, 
-        JavaScript, Laravel, React, React Native, and Vue.js.`
+        JavaScript, Laravel, React, React Native, and Vue.js. Also basic undertand of .NET Core (Entity Framework).`
 }
 ```
 
