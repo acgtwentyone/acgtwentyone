@@ -13,7 +13,6 @@ export const About = {
   job: {
     title: 'Software Developer',
     company: 'IDEIA, Lda',
-    industry: 'Tecnologies',
   },
   bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, 
         JavaScript, C#, Laravel, React, React Native, and Vue.js. Also basic undertand of .NET Core (Entity Framework).`
