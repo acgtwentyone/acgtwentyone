@@ -11,7 +11,7 @@ export const About = {
   },
   pronouns: 'he' | 'his',
   job: {
-    title: 'Software Developer',
+    title: 'Software Engineer',
     company: 'IDEIA, Lda',
   },
   bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, 
