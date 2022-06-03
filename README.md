@@ -1,5 +1,7 @@
 ### Hi there 👋, I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
 
+:trophy:&nbsp;&nbsp;Some Github Statistics
+
 [![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/acgtwentyone/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtwentyone&layout=compact&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/acgtwentyone/github-readme-stats)
 
 :razor:&nbsp;&nbsp;A litle more about me... 
