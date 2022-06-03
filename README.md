@@ -1,7 +1,8 @@
-### Hi there 👋, I am António Gonçalves 🌱  
+### Hi there 👋, I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
 
 [![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/acgtwentyone/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtwentyone&layout=compact&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/acgtwentyone/github-readme-stats)
 
+:razor:&nbsp;&nbsp;A litle more about me... 
 
 ```javascript
 export const About = {
@@ -22,4 +23,8 @@ export const About = {
 
 ### Let's conect 👋 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Antonio570373?color=%231DA1F2&logo=twitter&style=for-the-badge)&nbsp;&nbsp;&nbsp;[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U7D2EQ6)
+![Twitter Follow](https://img.shields.io/twitter/follow/Antonio570373?color=%231DA1F2&logo=twitter&style=for-the-badge)
+
+:coffee:&nbsp;&nbsp;By me a coffee 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U7D2EQ6)
