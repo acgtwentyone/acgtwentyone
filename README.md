@@ -1,4 +1,6 @@
-### Hi there 👋, I am António Gonçalves 🌱                                                             
+### Hi there 👋, I am António Gonçalves 🌱  
+
+[![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone)](https://github.com/acgtwentyone/github-readme-stats)
 
 ```javascript
 export const About = {
