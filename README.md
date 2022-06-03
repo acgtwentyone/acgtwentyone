@@ -22,5 +22,4 @@ export const About = {
 
 ### Let's conect 👋 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Antonio570373?color=%231DA1F2&logo=twitter&style=for-the-badge)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/Antonio570373?color=%231DA1F2&logo=twitter&style=for-the-badge)&nbsp;&nbsp;&nbsp;[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U7D2EQ6)
