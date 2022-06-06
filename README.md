@@ -1,8 +1,5 @@
 ### Hi there 👋, I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
 
-![GitHub issues](https://img.shields.io/github/issues/acgtwentyone/booktracks)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues-raw/acgtwentyone/booktracks)&nbsp;&nbsp;![GitHub pull requests](https://img.shields.io/github/issues-pr/acgtwentyone/booktracks)&nbsp;&nbsp;![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/acgtwentyone/booktracks)&nbsp;&nbsp;![GitHub commit activity](https://img.shields.io/github/commit-activity/m/acgtwentyone/booktracks)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/acgtwentyone/booktracks)
-
-
 
 :trophy:&nbsp;&nbsp;Some Github Statistics
 
