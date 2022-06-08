@@ -1,4 +1,4 @@
-### Hi there 👋, I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
+### Hi there 👋, I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:
 
 
 :trophy:&nbsp;&nbsp;Some Github Statistics
