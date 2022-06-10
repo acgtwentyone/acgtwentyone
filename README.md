@@ -1,5 +1,7 @@
 ### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
 
+Small Note: I've no github repo at work. Instead we use bitbucket at work.
+
 
 :trophy:&nbsp;&nbsp;Some Github Statistics
 
