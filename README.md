@@ -20,7 +20,7 @@ export const About = {
     organization: 'IDEIA, Lda',
   },
   bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, 
-        JavaScript, C# (.NET Core), Laravel, React, React Native and Vue.js.`
+        JavaScript, Laravel, React, React Native and Vue.js.`
 }
 ```
 
