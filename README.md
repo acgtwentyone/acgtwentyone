@@ -1,8 +1,8 @@
 <div align="center">
   
-### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:eyes:</br>
+### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:</br>
 
-Software Engineer&nbsp;&nbsp;:computer:</br></br>
+:razor:&nbsp;&nbsp;Software Engineer</br></br>
 
 :trophy:&nbsp;&nbsp;Some Github Statistics</br>
   
@@ -10,7 +10,7 @@ Software Engineer&nbsp;&nbsp;:computer:</br></br>
 </div></br>
   
 <div align="center">
-:razor:&nbsp;&nbsp;A litle more about me... Why Javascript ? Because it's awesome!
+:information_desk_person:&nbsp;&nbsp;A litle more about me... Why Javascript ? Because it's awesome!
 </div></br>
 
 ```javascript
