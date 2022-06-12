@@ -12,7 +12,7 @@ Small Note: I've no github repo at work. Instead, we've a vast of bitbucket's re
 </div></br>
   
 <div align="center">
-:razor:&nbsp;&nbsp;A litle more about me... Why Javascipt ? Because it's awesome!
+:razor:&nbsp;&nbsp;A litle more about me... Why Javascript ? Because it's awesome!
 </div></br>
 
 ```javascript
