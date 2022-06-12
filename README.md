@@ -1,8 +1,8 @@
 <div align="center">
   
-### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:computer:&nbsp;&nbsp;:eyes:
+### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:&nbsp;&nbsp;:eyes:</br>
 
-Small Note: I've no github repo at work. Instead, we've a vast of bitbucket's repos.</br></br>
+Software Engineer&nbsp;&nbsp;:computer:</br></br>
 
 :trophy:&nbsp;&nbsp;Some Github Statistics</br>
   
