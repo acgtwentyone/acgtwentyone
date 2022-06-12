@@ -25,8 +25,7 @@ export const About = {
     title: 'Software Developer - Full Stack',
     organization: 'IDEIA, Lda',
   },
-  bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, 
-        JavaScript, Laravel, React, React Native and Vue.js.`
+  bio: `António is a software engineer focused on full-stack web development, with extensive experience with PHP, JavaScript, Laravel, React, React Native and Vue.js.`
 }
 ```
 
