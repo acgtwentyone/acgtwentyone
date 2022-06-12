@@ -5,7 +5,9 @@ Small Note: I've no github repo at work. Instead, we've a vast of bitbucket's re
 
 :trophy:&nbsp;&nbsp;Some Github Statistics
 
-[![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone&count_private=true&show_icons=true&theme=radical)](https://github.com/acgtwentyone/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtwentyone&layout=compact&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/acgtwentyone/github-readme-stats)
+[![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/acgtwentyone/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtwentyone&layout=compact&theme=radical)](https://github.com/acgtwentyone/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acgtwentyone&repo=acg-github-readme-stats&show_owner=true&theme=radical)](https://github.com/acgtwentyone/acg-github-readme-stats)
 
 :razor:&nbsp;&nbsp;A litle more about me... 
 
