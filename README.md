@@ -32,8 +32,12 @@ export const About = {
 <div align="center">
   
 ### Let's conect 👋 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Antonio570373?color=%231DA1F2&logo=twitter&style=for-the-badge)
+  
+<p align="center">
+  <a href="https://twitter.com/Antonio570373">
+    <img alt="Follow Antonio570373" src="https://img.shields.io/twitter/follow/Antonio570373?style=social">
+  </a>
+</p>
 
 :coffee:&nbsp;&nbsp;By me a coffee
 
