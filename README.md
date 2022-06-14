@@ -37,7 +37,7 @@ export const About = {
   <a href="https://twitter.com/Antonio570373">
     <img alt="Follow Antonio570373" src="https://img.shields.io/twitter/follow/Antonio570373?style=social">
   </a>
-  <img alt="Message me" src="https://img.shields.io/badge/whatsapp-%2B238%20952%2091%2059-%2325D366?style=flat&logo=WhatsApp">
+  <img alt="Message me" src="https://img.shields.io/badge/Message%20me-%2B238%20952%2091%2059-%2325D366?style=social&logo=WhatsApp">
 </p>
 
 :coffee:&nbsp;&nbsp;By me a coffee
