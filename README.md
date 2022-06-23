@@ -4,13 +4,13 @@
 
 :razor:&nbsp;&nbsp;Software Engineer</br></br>
 
-:trophy:&nbsp;&nbsp;Some Github Statistics</br>
+:trophy:&nbsp;&nbsp;Github Stats</br>
   
 [![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtwentyone&count_private=true&show_icons=true&theme=radical&hide=stars,commits)](https://github.com/acgtwentyone/acg-github-readme-stats)</br></br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtwentyone&layout=compact&theme=radical)](https://github.com/acgtwentyone/acg-github-readme-stats)</br></br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acgtwentyone&repo=acg-github-readme-stats&show_owner=true&theme=radical)](https://github.com/acgtwentyone/acg-github-readme-stats)
 </div></br>
   
 <div align="center">
-:information_desk_person:&nbsp;&nbsp;A litle more about me... Why Javascript ? Because it's awesome!
+:information_desk_person:&nbsp;&nbsp;A litle more about me... Why Javascript ? I like it!
 </div></br>
 
 ```javascript
