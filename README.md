@@ -40,7 +40,5 @@ export const About = {
   <img alt="Message me" src="https://img.shields.io/badge/Message%20me-%2B238%20952%2091%2059-%2325D366?style=social&logo=WhatsApp">
 </p>
 
-:coffee:&nbsp;&nbsp;By me a coffee
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U7D2EQ6)
+<a href='https://ko-fi.com/U7U7D2EQ6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
