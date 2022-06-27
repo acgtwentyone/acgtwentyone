@@ -19,13 +19,15 @@ export const About = {
   contact: {
     whatsapp: '+238 952 91 59',
     email: 'acgtwentyone@gmail.com',
+    website: 'acg-goncalves.cv',
   },
   pronouns: 'he' | 'his',
   job: {
     title: 'Software Developer - Full Stack',
     organization: 'IDEIA, Lda',
   },
-  bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with more than four years of experience on PHP, JavaScript, Laravel, React, React Native and Vue.js.`
+  bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with more than 
+          four years of experience on PHP, JavaScript, Laravel, React, React Native and Vue.js.`
 }
 ```
 
