@@ -19,7 +19,7 @@ export const About = {
   contact: {
     whatsapp: '+238 952 91 59',
     email: 'acgtwentyone@gmail.com',
-    website: 'acg-goncalves.cv',
+    website: 'https://acg-goncalves.cv',
   },
   pronouns: 'he' | 'his',
   job: {
