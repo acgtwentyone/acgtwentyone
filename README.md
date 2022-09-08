@@ -28,7 +28,8 @@ export const About = {
   },
   bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with 
           5 years of experience on PHP, JavaScript, 4 years on Laravel, 3 years on React, React Native and Vue.js, 
-          2 years on Java (Android Native Development). Also has some experience on C#, .NET Core, and TypeScript.`
+          2 years on Java (Android Native Development). Also has some experience on C#, .NET Core, and TypeScript. 
+          Currently, learning Node.js (Server side - Express.js, and more) through a online course.`
 }
 ```
 
