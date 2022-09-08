@@ -26,8 +26,9 @@ export const About = {
     title: 'Software Developer - Full Stack',
     organization: 'IDEIA, Lda',
   },
-  bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with more than 
-          four years of experience on PHP, JavaScript, Laravel, React, React Native and Vue.js.`
+  bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with 
+          5 years of experience on PHP, JavaScript, 4 years on Laravel, 3 years on React, React Native and Vue.js. 
+          Also has some experience on C#, .NET Core, and TypeScript.`
 }
 ```
 
