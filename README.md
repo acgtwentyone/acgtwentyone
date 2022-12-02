@@ -26,8 +26,8 @@ export const About = {
   },
   address: {
     country: 'Portugal',
-    postal_code: '4000-259',
     city: 'Porto',
+    postal_code: '4000-259',
   },
   pronouns: 'he' | 'his',
   bio: `Laravel, VueJS, React Native - Full Stack Developer. Highly proficient in Software Development, focused on full-stack development, with 
