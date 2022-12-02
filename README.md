@@ -15,24 +15,26 @@
 
 ```javascript
 export const About = {
-  fullName: 'António Correia Gonçalves',
+  name: {
+    first_name: 'António',
+    last_name: 'Correia Gonçalves',
+  },
   contact: {
-    whatsapp: '+238 952 91 59',
-    email: 'acgtwentyone@gmail.com',
+    whatsapp: '+351 932 191 821',
+    email: 'antonioco.goncalves@gmail.com',
     website: 'https://acg-goncalves.cv',
   },
-  pronouns: 'he' | 'his',
-  job: {
-    title: 'Software Developer - Full Stack',
-    organization: 'IDEIA, Lda',
+  address: {
+    country: 'Portugal',
+    postal_code: '4000-259',
+    city: 'Porto',
   },
-  bio: `António Correia Gonçalves is a software engineer focused on full-stack development, with 
+  pronouns: 'he' | 'his',
+  bio: `Laravel, VueJS, React Native - Full Stack Developer. Highly proficient in Software Development, focused on full-stack development, with 
           5 years of experience on PHP, JavaScript, 4 years on Laravel, 3 years on React, React Native and Vue.js, 
-          2 years on Java (Android Native Development). Also has some experience on C#, .NET Core, and TypeScript. 
-          Currently, learning Node.js (Server side - Express.js, and more) through a online course. Currently, I’m 
-          assigned as a full stack developer   at IDEIA. I’ve been working on different projects, gaining experience
-          with different technologies such as Laravel, React, and Vuejs, deployment workflow, projecting, design, 
-          and architecting software.`
+          2 years on Java (Android Native Development). Also has some experience on C#, .NET Core, and TypeScript. I’ve been working 
+          on several projects, executing tasks like Project Coordinator, Planning, Analysis and architecting, Database design, Maintenance, 
+          Implementing new features, Deployment, Mobile Development. Learning Node.js (Server side - Express.js, and more), online course.
 }
 ```
 
