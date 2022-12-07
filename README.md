@@ -34,7 +34,8 @@ export const About = {
           5 years of experience on PHP, JavaScript, 4 years on Laravel, 3 years on React, React Native and Vue.js, 
           2 years on Java (Android Native Development). Also has some experience on C#, .NET Core, and TypeScript. I’ve been working 
           on several projects, executing tasks like Project Coordinator, Planning, Analysis and architecting, Database design, Maintenance, 
-          Implementing new features, Deployment, Mobile Development. Learning Node.js (Server side - Express.js, and more), online course.`
+          Implementing new features, Deployment, Mobile Development. Learning Node.js (Server side - Express.js, and more), online course.`,
+  hobbies: `Go to the beach, stay at home with my family, and read some books.`
 }
 ```
 
