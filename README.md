@@ -10,7 +10,7 @@
 </div></br>
   
 <div align="center">
-:information_desk_person:&nbsp;&nbsp;A litle more about me... Why Javascript ? I like it!
+:information_desk_person:&nbsp;&nbsp;A litle more about me... Why Javascript ? It's amazing!
 </div></br>
 
 ```javascript
