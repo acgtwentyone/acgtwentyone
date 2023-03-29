@@ -2,7 +2,7 @@
   
 ### Hi there 👋 I am António Correia Gonçalves&nbsp;&nbsp;:coffee:
 
-:razor:&nbsp;&nbsp;Software Engineer</br></br>
+:razor:&nbsp;&nbsp;Software Developer</br></br>
 
 :trophy:&nbsp;&nbsp;Github Stats</br>
   
