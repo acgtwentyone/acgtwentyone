@@ -15,10 +15,7 @@
 
 ```javascript
 export const About = {
-  contact: {
-    whatsapp: '+351 932 191 821',
-    email: 'antonioco.goncalves@gmail.com',
-  },
+  whatsapp: '+351 932 191 821'
   pronouns: 'he' | 'his',
   hobbies: `Go to the beach, stay at home with my family, and read some books.`
 }
