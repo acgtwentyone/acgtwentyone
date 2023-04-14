@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋 I am António Correia Gonçalves&nbsp;&nbsp;:coffee:
+### Hi there 👋 I am António Gonçalves&nbsp;&nbsp;:coffee:
 
 :razor:&nbsp;&nbsp;Software Developer</br></br>
 
