@@ -17,7 +17,7 @@
 export const About = {
   whatsapp: '+351 932 191 821',
   pronouns: 'he' | 'his',
-  hobbies: `Go to the beach, stay at home with my family, and read some books.`
+  hobbies: `Go to the beach, reading, and stay at home with my family.`
 }
 ```
 
